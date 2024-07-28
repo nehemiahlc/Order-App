@@ -1,6 +1,7 @@
 # OrderApp
 
-**OrderApp** is an iOS application designed to streamline the restaurant ordering process. The app allows users to browse a customizable menu, place orders, and track the preparation status of their orders. This project demonstrates a range of iOS development skills, including user interface design, data management, and asynchronous programming.
+**OrderApp** is an iOS application developed as part of the guided project from the *Develop in Swift Data Collections* book by Apple Education. This project is designed to streamline the restaurant ordering process, allowing users to browse a customizable menu, place orders, and track the preparation status of their orders. It showcases a range of iOS development skills including user interface design, data management, and asynchronous programming.
+
 
 ## Preview
 ![Screen Recording 2024-07-28 at 5 52 33 PM](https://github.com/user-attachments/assets/2c26bc84-e011-4097-b291-469fe8ab0e1c)

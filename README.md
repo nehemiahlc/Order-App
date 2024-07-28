@@ -51,3 +51,6 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/nehemiahlc/OrderApp.git
+
+## Acknowledgements
+- [Apple's Develop in Swift Data Collections](https://books.apple.com/us/book/develop-in-swift-data-collections/id6468968766) for guidance on building the app.

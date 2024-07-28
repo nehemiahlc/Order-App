@@ -9,6 +9,7 @@
 ## Features
 
 - **Customizable Menu**: Browse a list of menu items with images and prices.
+- **API Integration**: Fetch menu data and images from a local server.
 - **Order Placement**: Add items to an order and submit it to the restaurant.
 - **Order Tracking**: Track the preparation status of your order.
 - **State Restoration**: Maintain user progress across app sessions.
